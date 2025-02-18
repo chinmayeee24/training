@@ -1,2 +1,2 @@
 # training
-competitve programming
+competitve programming 2025
